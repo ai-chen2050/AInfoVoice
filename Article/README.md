@@ -2,6 +2,7 @@
 
 </br>
 
+![社区二维码](../pic/QRcode.gif)
 <font face="楷体" size=4>
 
 ## <font color=red><b>自然科学与人文</b></font>
@@ -108,5 +109,3 @@
 
 ## <font color=red><b>社区愿景</b></font>: [这将是一个新的世界](http://mp.weixin.qq.com/s?__biz=Mzg4NjExNjM4OQ==&mid=2247483776&idx=1&sn=1f93ef03d80282235f71c7b27527d3f7&chksm=cf9fd8caf8e851dc4136988a00366a198ba64660202686122b9dfe908dac16e34d5a7412d203#rd)  
 </font> 
-
-![社区二维码](../pic/QRcode.gif)
