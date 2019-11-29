@@ -2,7 +2,7 @@
 
 </br>
 
-![社区二维码](../pic/QRcode.gif)
+<!-- ![社区二维码](../pic/QRcode.gif) -->
 <font face="楷体" size=4>
 
 ## <font color=red><b>自然科学与人文</b></font>
